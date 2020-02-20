@@ -14,6 +14,7 @@ use kernel::hil;
 use kernel::Platform;
 use kernel::{create_capability, debug, static_init};
 use rv32i::csr;
+use dif::dif_bind;
 
 mod counter_demo;
 

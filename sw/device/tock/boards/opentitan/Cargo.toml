@@ -24,3 +24,4 @@ capsules = { git = "https://github.com/tock/tock" }
 kernel = { git = "https://github.com/tock/tock" }
 ibex = { git = "https://github.com/tock/tock" }
 lowrisc = { git = "https://github.com/tock/tock" }
+dif = { path = "../../dif" }
